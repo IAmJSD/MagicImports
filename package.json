@@ -1,0 +1,13 @@
+{
+  "name": "magicimports",
+  "version": "1.0.0",
+  "description": "A pointer and entrypoint based import system for JS. Bye globals!",
+  "main": "index.js",
+  "author": "Jake Gealer",
+  "license": "BSD-2-Clause",
+  "homepage": "https://github.com/JakeMakesStuff/MagicImports",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/JakeMakesStuff/MagicImports.git"
+  }
+}
